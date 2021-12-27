@@ -32,3 +32,11 @@ python3 initial_script.py
 ```
 python3 run_server.py
 ```
+
+## Test the System
+```
+Step 1 - Hit http://localhost:5000/ and search for any of the Property Type.
+Step 2 - Wait for the results to come. 
+Step 3 - Repeat the Step 1 with same property type, this time it will load faster. 
+
+```
